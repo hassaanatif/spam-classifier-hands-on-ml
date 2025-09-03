@@ -1,0 +1,12 @@
+name: spam_classifier
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyter
+  - seaborn
+  - nltk
